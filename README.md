@@ -1,0 +1,3 @@
+HR-Analytics
+
+Analyzing the HR Criteria of a Company and how they advance their Workers and keep Adjust between them utilizing Information Analytics, Information Visualizations, and Machine Learning Models for Classification Purposes. HR pioneers must adjust HR information and activities to the organization’s key objectives. For case, a tech company may need to move forward collaboration over divisions to extend the number of imaginative thoughts built into their program. HR activities like shared workspaces, company occasions, collaborative apparatuses, and worker challenges can be actualized to attain this objective. To decide how fruitful activities are, HR analytics can be utilized to look at relationships between activities and key goals.
